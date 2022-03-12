@@ -1,14 +1,15 @@
 // backend logic
-// $(document).ready function((){
-//     $(".design").click function() {
-//             $(".des").toggle("slow", function()){
-//                 $("img").hide f
+$(document).ready(function(){
+    $(".des").click(function(){
+        $(".des").toggle();
+        $(".design").show();
 
-//             })
-//         });
-
-  
-    // $("img").show
+        $(".design").click(function(){
+            $(".design").slideUp();
+            $(".des").slideDown();
+        })
+    })
+})
 
 
 
