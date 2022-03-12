@@ -5,19 +5,37 @@
     background-size: cover;
     background-position: center;
 }
-
-.text {
-    position: absolute; top: 50%;
+.landing1 h1 {
+    position: absolute;
+    top: 53vh;
+    right: 35%;
+    color: white;
+    font-size: 45px;
 }
+
+/* .text {
+    position: absolute; top: 60%;
+} */
 
 .landing2 {
     padding: 100px;
 }
 
 .landing3 {
-    padding: 100px;
-    background-image: url(../tess/Desktop/Delani-Studio/images/mac bcgrnd_image.jpg);
-
-    
+    position: absolute;
+    top: 190vh;
+    text-align: center;
+    color: white;
+    right: 2%;
+    left: 2%;
 }
+/* .landing3 h1 {
+    position: absolute;
+    top: 50vh;
+} */
+
+.development {
+    float: left;
+}
+
 font-family: 'Montserrat', sans-serif size: Regular 400;
