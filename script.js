@@ -8,8 +8,20 @@ $(document).ready(function(){
             $(".design").slideUp();
             $(".des").slideDown();
         })
-    })
+    }) 
 })
+$(document).ready(function(){
+    $(".dev").click(function(){
+        $(".dev").toggle();
+        $(".development").show();
+
+        $(".development").click(function(){
+            $(".development").slideUp();
+            $(".dev").slideDown();
+        })
+    }) 
+})
+
 
 
 
