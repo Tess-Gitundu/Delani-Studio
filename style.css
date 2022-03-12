@@ -12,10 +12,14 @@
     color: white;
     font-size: 45px;
 }
-
-/* .text {
-    position: absolute; top: 60%;
-} */
+.landing1 p {
+    position: absolute;
+    top: 70vh;
+    right: 25%;
+    color: white;
+    font-size: 18px;
+    padding: 15px;
+}
 
 .landing2 {
     padding: 100px;
