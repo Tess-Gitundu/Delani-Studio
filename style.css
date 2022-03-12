@@ -39,7 +39,15 @@
 .design {
     display: none;
 }
-
+.development{
+    display: none;
+}
+.product {
+    display: none;
+}
+.landing5 h1 {
+padding: 100px;
+}
 
 
 font-family: 'Montserrat', sans-serif size: Regular 400;
