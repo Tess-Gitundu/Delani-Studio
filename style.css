@@ -29,13 +29,15 @@
     right: 2%;
     left: 2%;
 }
-/* .landing3 h1 {
-    position: absolute;
-    top: 50vh;
-} */
-
-.development {
-    float: left;
+.landing4 {
+    padding: 100px;
 }
+.design {
+    display: none;
+}
+
+/* .development {
+    float: left;
+} */
 
 font-family: 'Montserrat', sans-serif size: Regular 400;
