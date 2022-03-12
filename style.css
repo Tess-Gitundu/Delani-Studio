@@ -1,11 +1,23 @@
-.text {
-    /* position: absolute; top: 50%; */
-}
 .landing1 {
     background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg);
     position: relative;
     padding-top: 50%;
     background-size: cover;
     background-position: center;
+}
+
+.text {
+    position: absolute; top: 50%;
+}
+
+.landing2 {
+    margin: ;
+    padding: 100px;
+}
+
+.landing3 {
+    background-image: url(/home/tess/Desktop/Delani-Studio/images/mac bcgrnd_image.jpg);
+
+    
 }
 font-family: 'Montserrat', sans-serif size: Regular 400;
