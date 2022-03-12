@@ -21,6 +21,18 @@ $(document).ready(function(){
         })
     }) 
 })
+$(document).ready(function(){
+    $(".prod").click(function(){
+        $(".prod").toggle();
+        $(".product").show();
+
+        $(".product").click(function(){
+            $(".product").slideUp();
+            $(".prod").slideDown();
+        })
+    }) 
+})
+
 
 
 
