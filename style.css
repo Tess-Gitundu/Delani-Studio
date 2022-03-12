@@ -17,7 +17,7 @@
     top: 70vh;
     right: 25%;
     color: white;
-    font-size: 18px;
+    font-size: 18px; 
     padding: 15px;
 }
 
@@ -40,8 +40,6 @@
     display: none;
 }
 
-/* .development {
-    float: left;
-} */
+
 
 font-family: 'Montserrat', sans-serif size: Regular 400;
