@@ -152,13 +152,17 @@ background: transparent;
     color: white;
     text-align: center;
 }
-button{
-margin-left: 15%;
-margin-top: 5%;
-background-color: black;
+.btn {
+    background-color: white;
 }
+#message
 ::placeholder{
     color: solid white;
+}
+.mousec{
+    position: absolute;
+    top: 90vh;
+    right: 50%;
 }
 
 
