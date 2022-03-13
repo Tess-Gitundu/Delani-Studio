@@ -20,7 +20,7 @@ $(document).ready(function(){
             $(".dev").slideDown();
         })
     }) 
-})
+});
 $(document).ready(function(){
     $(".prod").click(function(){
         $(".prod").toggle();
@@ -31,6 +31,18 @@ $(document).ready(function(){
             $(".prod").slideDown();
         })
     }) 
+});
+$(document).ready(function(){
+    $(".work4").hover(function(){
+        $(".work4").css("filter", "brightness (40%)")
+        $(".port4").toggle();
+    })   
+})
+$(document).ready(function(){
+    $(".work3").hover(function(){
+        $(".work3").css("filter", "brightness (40%)")
+        $(".port3").toggle();
+    })   
 })
 
 
