@@ -44,6 +44,43 @@ $(document).ready(function(){
         $(".port3").toggle();
     })   
 })
+$(document).ready(function(){
+    $(".work2").hover(function(){
+        $(".work2").css("filter", "brightness (40%)")
+        $(".port2").toggle();
+    })   
+})
+$(document).ready(function(){
+    $(".work1").hover(function(){
+        $(".work1").css("filter", "brightness (40%)")
+        $(".port1").toggle();
+    })   
+})
+$(document).ready(function(){
+    $(".work5").hover(function(){
+        $(".work5").css("filter", "brightness (40%)")
+        $(".port5").toggle();
+    })   
+})
+$(document).ready(function(){
+    $(".work6").hover(function(){
+        $(".work6").css("filter", "brightness (40%)")
+        $(".port6").toggle();
+    })   
+})
+$(document).ready(function(){
+    $(".work7").hover(function(){
+        $(".work7").css("filter", "brightness (40%)")
+        $(".port7").toggle();
+    })   
+})
+$(document).ready(function(){
+    $(".work8").hover(function(){
+        $(".work8").css("filter", "brightness (40%)")
+        $(".port8").toggle();
+    })   
+})
+
 
 
 
