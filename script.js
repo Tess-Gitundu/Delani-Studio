@@ -80,7 +80,23 @@ $(document).ready(function(){
         $(".port8").toggle();
     })   
 })
+function myFunction(){
+    let name = document.getElementById("name").value;
+    let email = document.getElementById("email").value;
+    let message = document.getElementById("message").value;
+    
+    console.log(name)
 
+    // if (name.length === ""){
+    //     alert("Kindly, enter your name.")
+    // }else if(email.length === ""){
+    //     alert("Kindly, enter your email.")
+    // }else if(message.length === ""){
+    //     alert("Kindly, input message.")
+    // }else {
+    //     alert(name + "We have received your message. Thank you for reaching out to us")
+    // }
+}
 
 
 
